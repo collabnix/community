@@ -19,6 +19,6 @@
   "devDependencies": {
     "autoprefixer": "^9.8.6",
     "postcss-cli": "^7.1.2",
-    "bootstrap-sass": "^5.0.0-beta3"
+    "bootstrap-sass": "^4.6.0"
   }
 }
