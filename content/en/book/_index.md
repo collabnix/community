@@ -1,6 +1,9 @@
 ---
 title: "Community books"
 linkTitle: "eBook"
+menu:
+  main:
+    weight: 40
 ---
 
 
@@ -24,24 +27,24 @@ linkTitle: "eBook"
 
 ### Chap 1.  Getting Started
 
-What are containers & what are they used for?
-What is Docker?
-Difference between Docker & Container
-Difference between Docker & Virtual Machine
-Understanding Docker underlying technologies
-Architecture of Docker
-How do I install Docker
-Running the first “Hello World” container
+- What are containers & what are they used for?
+- What is Docker?
+- Difference between Docker & Container
+- Difference between Docker & Virtual Machine
+- Understanding Docker underlying technologies
+- Architecture of Docker
+- How do I install Docker
+- Running the first “Hello World” container
 
-Chap 2.   Installing, Upgrading, and Maintaining Docker
+### Chap 2.   Installing, Upgrading, and Maintaining Docker
 
-Installing Docker on Linux
+- Installing Docker on Linux
   - Ubuntu 
   - Debian
   - Red Hat Enterprise Linux
   - OpenSUSE
 - Alpine OS
-Installing Docker on Cloud
+- Installing Docker on Cloud
               - AWS
               - Google Cloud
               - Microsoft Azure
@@ -56,16 +59,16 @@ Installing Docker on Cloud
       - Installing Docker Desktop for Windows 
       - Installing Docker on Windows Server
 
-Chap 3.  Understanding Docker components
+### Chap 3.  Understanding Docker components
 
-Docker Client-Server architecture
-Docker Daemon
-What is a Docker Image?
-Building Your Own Docker Image from Scratch
-What is a Docker container?
-Difference between Docker Image & Docker container
-What is a Docker registry?
-How to build a local private Docker registry?
+- Docker Client-Server architecture
+- Docker Daemon
+- What is a Docker Image?
+- Building Your Own Docker Image from Scratch
+- What is a Docker container?
+- Difference between Docker Image & Docker container
+- What is a Docker registry?
+- How to build a local private Docker registry?
 
 
 Chap 4.  Working with Docker Image and container
