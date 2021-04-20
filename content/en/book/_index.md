@@ -1,10 +1,10 @@
 ---
 title: "Community books"
-linkTitle: "books"
+linkTitle: "eBook"
 menu:
   main:
     weight: 40
 ---
 
 
-This is the **community book** section. 
+This is the **community ebook** section. 
