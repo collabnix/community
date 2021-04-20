@@ -173,7 +173,7 @@ enable = false
 [[params.links.user]]
 	name = "YouTube"
 	url = "https://youtube.com/c/Collabnix"
-	icon = "fa fa-youtube"
+	icon = "fab fa-youtube"
         desc = "Watch OSCONF videos"
 [[params.links.user]]
 	name ="Twitter"
@@ -199,6 +199,6 @@ enable = false
 [[params.links.developer]]
 	name = "YouTube"
 	url = "https://youtube.com/c/Collabnix"
-	icon = "fa fa-youtube"
+	icon = "fab fa-youtube"
         desc = "Watch OSCONF videos"
 
