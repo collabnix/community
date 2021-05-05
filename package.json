@@ -23,7 +23,7 @@
     "postcss-loader": "^5.2.0"
   },
   "dependencies": {
-    "bootstrap": "^4.6.0",
+    "bootstrap": "^5.0.0",
     "bootstrap-scss": "^4.6.0"
   }
 }
