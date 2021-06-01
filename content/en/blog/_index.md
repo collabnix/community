@@ -1,5 +1,5 @@
 ---
-title: "Docsy Blog"
+title: "Collabnix Blog"
 linkTitle: "Blog"
 menu:
   main:
@@ -7,7 +7,6 @@ menu:
 ---
 
 
-This is the **blog** section. It has two categories: News and Releases.
-
-Files in these directories will be listed in reverse chronological order.
+This is a curated list of Collabnix blog posts. Most of these blogs have been fetched from the Collabnix blog site.
+We do have a plan to have a separate section that lists blogs contributed by the Collabnix community members
 
