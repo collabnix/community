@@ -7,7 +7,7 @@ description: >
 ---
 
 {{% pageinfo %}}
-An Ultimate Hands-on Labs for Docker
+Hands-on Labs for Docker Beginners, Intermediate & Advanced Users
 {{% /pageinfo %}}
 
 
