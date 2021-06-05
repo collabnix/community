@@ -6,9 +6,6 @@ description: >
   A Curated List of Kubernetes Tools
 ---
 
-{{% pageinfo %}}
-A Curated List of Kubernetes Tools
-{{% /pageinfo %}}
 
 
 # Kubetools - A Curated List of Kubernetes Tools
