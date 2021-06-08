@@ -1,6 +1,6 @@
 ---
 title: "Networking"
-linkTitle: "Kubernetes Networking"
+linkTitle: "Networking"
 weight: 120
 description: >-
      Resources related to Kubernetes Networking
