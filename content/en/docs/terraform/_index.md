@@ -20,3 +20,6 @@ You can get started in 3 Simple Steps
 - [Twitter URL](ttps://twitter.com/collabnix)
 
 
+## Links & Resources
+
+- [Terraform Hands-on Labs](https://github.com/collabnix/terraform)
