@@ -1,7 +1,7 @@
 ---
 title: "DockerTools"
 linkTitle: "Docker Tools"
-weight: 50
+weight: 7
 description: >-
      A curated list of Docker Tools
 ---
