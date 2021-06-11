@@ -60,3 +60,21 @@ Hence, a DevOps engineer must possess the ability to implement automation techno
 - Maintaining and developing highly automated services landscape and open source services
 - Take over the ownership for integral components of technology and make sure it grows aligned with company success
 - Scale systems and ensure the availability of services with developers on changes to the infrastructure required by new features and products.
+
+
+## How to become a DevOps engineer?
+
+DevOps is less about doing things a particular way, and more about moving the business forward and giving it a stronger technological advantage. There is not a single cookbook or path to become a DevOps professional. It's a continuous learning and consulting process. Every DevOps tasks have been originated from various development, testing, ops team consulting through consultants and running pilots, therefore it’s hard to give a generic playbook for how to get it implemented. Everyone should start with learning about the values, principles, methods, and practices of DevOps and trying to share it via any channel and keep learning.
+
+Here’s my 10 golden tips to become a DevOps Engineer:
+
+    1.  Develop Your Personal Brand with Community Involvement
+    2. Get familiar with IaC(Infrastructure-as-Code) - CM
+    3. Understand DevOps Principles & Frameworks
+    4. Demonstrate Curiosity & Empathy
+    5. Get certified on Container Technologies - Docker | Kubernetes| Cloud
+    6. Get Expert in Public | Private | Hybrid Cloud offering
+    7. Become an Operations Expert before you even THINK DevOps
+    8. Get Hands-on with various Linux Distros & Tools
+    9. Arm Yourself with CI-CD, Automation & Monitoring Tools(Github, Jenkins, Puppet, Ansible etc)
+    10.Start with Process Re-Engineering and Cross-collaboration within your teams.
