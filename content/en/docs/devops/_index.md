@@ -1,9 +1,9 @@
 ---
-title: "DevOps Tools"
-linkTitle: "DevOps Tools"
+title: "DevOps"
+linkTitle: "DevOps"
 weight: 100
 description: >-
-     A Curated List of DevOps Tools and Technologies
+     A Curated List of DevOps, Tools and Technologies
 ---
 
 ## Who are DevOps Engineers? 
