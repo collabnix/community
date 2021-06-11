@@ -56,7 +56,7 @@ Hence, a DevOps engineer must possess the ability to implement automation techno
 
 ## Can you tell me other responsibilities of DevOps Engineer?
 
-Manage and maintain infrastructure system
-Maintaining and developing highly automated services landscape and open source services
-Take over the ownership for integral components of technology and make sure it grows aligned with company success
-Scale systems and ensure the availability of services with developers on changes to the infrastructure required by new features and products.
+- Manage and maintain infrastructure system
+- Maintaining and developing highly automated services landscape and open source services
+- Take over the ownership for integral components of technology and make sure it grows aligned with company success
+- Scale systems and ensure the availability of services with developers on changes to the infrastructure required by new features and products.
