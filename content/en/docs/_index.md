@@ -4,7 +4,7 @@ linkTitle: "Getting Started"
 weight: 10
 menu:
   main:
-    weight: 20
+    weight: 10
 ---
 
 {{% pageinfo %}}
