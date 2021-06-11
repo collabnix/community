@@ -68,48 +68,48 @@ DevOps is less about doing things a particular way, and more about moving the bu
 
 Here’s my 10 golden tips to become a DevOps Engineer:
 
-    1.  Develop Your Personal Brand with Community Involvement
-    2. Get familiar with IaC(Infrastructure-as-Code) - CM
-    3. Understand DevOps Principles & Frameworks
-    4. Demonstrate Curiosity & Empathy
-    5. Get certified on Container Technologies - Docker | Kubernetes| Cloud
-    6. Get Expert in Public | Private | Hybrid Cloud offering
-    7. Become an Operations Expert before you even THINK DevOps
-    8. Get Hands-on with various Linux Distros & Tools
-    9. Arm Yourself with CI-CD, Automation & Monitoring Tools(Github, Jenkins, Puppet, Ansible etc)
-    10.Start with Process Re-Engineering and Cross-collaboration within your teams.
+- Develop Your Personal Brand with Community Involvement
+- Get familiar with IaC(Infrastructure-as-Code) - CM
+- Understand DevOps Principles & Frameworks
+- Demonstrate Curiosity & Empathy
+- Get certified on Container Technologies - Docker | Kubernetes| Cloud
+- Get Expert in Public | Private | Hybrid Cloud offering
+- Become an Operations Expert before you even THINK DevOps
+- Get Hands-on with various Linux Distros & Tools
+- Arm Yourself with CI-CD, Automation & Monitoring Tools(Github, Jenkins, Puppet, Ansible etc)
+- Start with Process Re-Engineering and Cross-collaboration within your teams.
 
 
 ## Skills that DevOps engineer need to have 
 
 If you’re aiming to land a job as a DevOps engineer in 2018, it’s not only about having a deep specialized skill but understanding how a variety of technologies and skills come together. One of the things that makes DevOps both challenging to break into is that you need to be able to write code, and also to work across and integrate different systems and applications. Based on my experience, I have finalized on the list of top 5 skill sets  which you might require to be a successful DevOps engineer:
 
-#1 - SysAdmin with Virtualization Experience
+### SysAdmin with Virtualization Experience
 
 Deployment is a major requirement in devops role and ops engineer are good at that, All is needed is a deployments automation engine(chef, puppet, ansible) knowledge and its use-cases implementations. Nowadays, most of public clouds are running multiple flavors of virtualization so a must have 3 – 5 years of virtualization experience with VMware, KVM, Xen, Hyper-V is required along.
 
-#2 - Solution Architect Role
+### Solution Architect Role
 
 Along with deployments or virtualization experience, understanding and implementation of all the hardware technologies in breadth is a must like storage and networking. Nowadays there is a very high-demand for people who can design a solution that scales and performs with high availability and uptime with minimal amount of resources to feed on (Max utilization).
 
-#3 - A Passionate Programmer/API Expertise
+### A Passionate Programmer/API Expertise
 
 Bash, Powershell, Perl, Ruby, JavaScript, Go, Python etc are few of popular scripting languages one need to have expertise on to become an effective DevOps Engineer. A DevOps engineer must be able to write code to automated repeatable processes. One need to be familiar with RESTFUL APIs.
 
-#4 - Integration Skillset around CI-CD tool
+###  Integration Skillset around CI-CD tool
 
 A DevOps engineer should be able to use all his expertise to integrate all the open source tools and techniques to create an environment that is fully automated and integrated. The goal should be for zero manual intervention from source code management to deployment state, i.e. Continuous Integration, Continuous Delivery and Continuous Deployment.
 
-#5 - Bigger Picture & Customer Focus
+### Bigger Picture & Customer Focus
 
 While the strong focus on coding chops makes software engineering a natural path to a career in DevOps, the challenge for candidates who are coming from this world is that they need to be able to prove that they can look outside their immediate team and project. DevOps engineers are responsible for facilitating collaboration and communication between the Development and IT teams within an organization, so to succeed in an interview, you’ll need to be able to demonstrate your understanding of how disparate parts of the technical organization fit and work together.
 
 In nutshell, all you need are the list of tools and technologies listed below -
 
-Source Control (like Git, Bitbucket, Svn, VSTS etc)
-Continuous Integration (like Jenkins, Bamboo, VSTS )
-Infrastructure Automation (like Puppet, Chef, Ansible)
-Deployment Automation & Orchestration (like Jenkins, VSTS, Octopus Deploy)
-Container Concepts (LXD, Docker)
-Orchestration (Kubernetes, Mesos, Swarm)
-Cloud (like AWS, Azure, Google Cloud, Openstack)
+- Source Control (like Git, Bitbucket, Svn, VSTS etc)
+- Continuous Integration (like Jenkins, Bamboo, VSTS )
+- Infrastructure Automation (like Puppet, Chef, Ansible)
+- Deployment Automation & Orchestration (like Jenkins, VSTS, Octopus Deploy)
+- Container Concepts (LXD, Docker)
+- Orchestration (Kubernetes, Mesos, Swarm)
+- Cloud (like AWS, Azure, Google Cloud, Openstack)
