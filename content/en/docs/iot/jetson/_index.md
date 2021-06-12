@@ -6,6 +6,7 @@ description: >-
      Page description for Jetson Nano
 ---
 
+  - [Getting Started with BME680 Sensor on NVIDIA Jetson Nano](https://collabnix.com/getting-started-with-bme680-sensor-on-nvidia-jetson-nano/)
   - [Object Detection with Yolo Made Simple using Docker on NVIDIA Jetson Nano](https://collabnix.com/object-detection-with-yolo-using-docker-19-03-on-nvidia-jetson-nano/)
   - [Multi Node k3s Cluster on NVIDIA Jetsin Nano in 5 Minutes](https://collabnix.com/multi-node-k3s-cluster-on-nvidia-jetson-nano-in-5-minutes/)
   - [Running Minecraft inside Docker Container](https://github.com/collabnix/ioetplanet/blob/master/nvidia/jetsonnano/minecraft/README.md)
