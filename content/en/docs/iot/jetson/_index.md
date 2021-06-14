@@ -16,5 +16,5 @@ description: >-
   - [Redis running inside Docker container on NVIDIA Jetson Nano](https://collabnix.com/running-redis-inside-docker-container-on-jetson-nano/)
   - [How to enable RDP on Jetson Nano](https://github.com/collabnix/ioetplanet/blob/master/nvidia/jetsonnano/enable-rdp.md)
   - [Running DeviceQuery on Docker with GPU Support](https://github.com/collabnix/ioetplanet/tree/master/nvidia/jetsonnano#running-devicequery-on-docker-with-gpu-support)
-  - [Running deviceQuery on containerd with GPU support](https://github.com/collabnix/ioetplanet/tree/master/nvidia/jetsonnano#running-devicequery-on-docker-with-gpu-support)
+  - [Running DeviceQuery on containerd with GPU support](https://github.com/collabnix/ioetplanet/tree/master/nvidia/jetsonnano#running-devicequery-on-docker-with-gpu-support)
   - [K3 access to NVIDIA Jetson GPUs](https://github.com/collabnix/ioetplanet/tree/master/nvidia/jetsonnano#test-3-running-devicequery-on-the-k3s-cluster)
