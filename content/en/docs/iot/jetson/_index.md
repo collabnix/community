@@ -15,3 +15,5 @@ description: >-
   - [Pico goes Cloudless: Running RTMP & Nginx for Video Streaming using Docker on Jetson Nano locally](https://collabnix.com/running-rtmp-nginx-for-video-streaming-using-docker-on-jetson-nano/)
   - [Redis running inside Docker container on NVIDIA Jetson Nano](https://collabnix.com/running-redis-inside-docker-container-on-jetson-nano/)
   - [How to enable RDP on Jetson Nano](https://github.com/collabnix/ioetplanet/blob/master/nvidia/jetsonnano/enable-rdp.md)
+  - [Running DeviceQuery on Docker with GPU Support](https://github.com/collabnix/ioetplanet/tree/master/nvidia/jetsonnano#running-devicequery-on-docker-with-gpu-support)
+  - [Running deviceQuery on containerd with GPU support](https://github.com/collabnix/ioetplanet/tree/master/nvidia/jetsonnano#running-devicequery-on-docker-with-gpu-support)
