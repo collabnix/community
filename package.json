@@ -20,7 +20,7 @@
     "autoprefixer": "^10.2.6",
     "postcss": "^8.3.2",
     "postcss-cli": "^8.3.1",
-    "postcss-loader": "^5.3.0"
+    "postcss-loader": "^6.1.0"
   },
   "dependencies": {
     "bootstrap": "^5.0.1",
