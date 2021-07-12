@@ -6,6 +6,51 @@ description: >-
      Get Familiar with DevOps Terminologies and Definitions
 ---
 
+## What is DevOps?
+
+DevOps is a cultural shift and the adoption of a specific mindset -- one that emphasizes communication and collaboration among development and IT operations teams, as well as with other stakeholders. DevOps is not an individual, nor is it a specific tool or technology. DevOps typically incorporates common methodologies such as continuous integration, continuous delivery and automation.
+
+## What problems does DevOps try to solve?
+
+DevOps tries to address many of the issues inherent in traditional application development and delivery methodologies, with the goal of improving operations throughout the application development lifecycle. The following list includes several of the issues that DevOps tries to address.
+
+The application delivery process is slow, with fixes and updates taking too long.
+Siloes between development, operations and other stakeholders make it difficult to work toward common application delivery goals.
+Applications do not run correctly in all environments. They might work fine during development and testing but not when they're deployed in a production environment.
+
+Problems with an application are often discovered late in the development lifecycle, making them more difficult, time-consuming and costly to resolve.
+The process of identifying and resolving issues can be complex and time-consuming, often leading to unexpected delays and cost overruns.
+Traditional application development and delivery methodologies are full of repetitive and manual tasks that take too long and use up valuable time.
+
+
+##  What benefits does DevOps offer?
+
+DevOps offers numerous benefits, and candidates should understand what these are and why they make DevOps so valuable. The following list includes several of these benefits:
+
+- Streamlines software delivery and deployment processes
+- Reduces the number of silos between IT groups
+- Increases communications between team members and other stakeholders
+- Incorporates faster feedback, resulting in quicker software improvements
+- Automates repetitive, manual tasks, leading to increased efficiency
+- Results in less downtime and faster time to market
+- Provides an infrastructure for continuous software development and delivery
+
+## What are some of the challenges that come with implementing DevOps?
+
+The following list describes some of these challenges.
+
+- DevOps can result in IT departmental changes or shifts in personnel and often requires special training or new skills.
+- A DevOps environment can raise security and compliance challenges that might require additional resources to address.
+- DevOps can be difficult to scale across projects and teams.
+- DevOps tools and platforms can be costly and complex, often requiring additional training and support.
+- Organizations often implement DevOps while still supporting traditional methodologies, resulting in increased complexity and expense.
+- Creating the right DevOps culture can often be a challenge, especially if individuals are resistant to change or if leadership isn't fully onboard.
+- Moving from traditional tools and methodologies to DevOps takes careful planning and preparation and can be a complex, time-consuming process, even under the best circumstances.
+
+## What is shift-left in DevOps?
+
+The concept of shifting left in DevOps is based on the idea that the application development and delivery process can be graphically represented as a workflow that moves from left to right. In traditional approaches to application development, tasks such as testing software are often done later in the development process, nearer to the right end of the graph. But DevOps moves such tasks toward the left end, that is, sooner in the development process. This shift to the left makes it possible to identify issues while they're still more manageable, resulting in faster development cycles and more streamlined operations.
+
 ## Who are DevOps Engineers? 
 
 ![myimage](images/devops002.jpeg)
