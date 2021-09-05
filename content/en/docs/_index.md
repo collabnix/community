@@ -7,8 +7,5 @@ menu:
     weight: 10
 ---
 
-{{% pageinfo %}}
-This sections holds all DevOps, DevSecOps and CNCF related projects.
-{{% /pageinfo %}}
 
 
