@@ -1,7 +1,7 @@
 ---
 title: "IoT"
 linkTitle: "IoT"
-weight: 105
+weight: 400
 description: >-
      Page description for IoT projects
 ---
