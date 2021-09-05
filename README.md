@@ -4,6 +4,7 @@ This repository is built by the community, for the community. It defines the jou
 
 ## Which platform does it uses?
 
+
 It is based on [Docsy](https://github.com/google/docsy) tool. It is a Hugo theme for technical documentation sites, providing easy site navigation, structure, and more. 
 
 ## How to contribute?
