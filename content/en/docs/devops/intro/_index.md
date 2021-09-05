@@ -1,7 +1,7 @@
 ---
 title: "Introduction"
 linkTitle: "Introduction"
-weight: 100
+weight: 81
 description: >-
      Get Familiar with DevOps Terminologies and Definitions
 ---
