@@ -1,9 +1,9 @@
 ---
 title: "Getting Started"
 linkTitle: "Getting Started"
-weight: 30
+weight: 20
 menu:
   main:
-    weight: 30
+    weight: 20
 ---
 
