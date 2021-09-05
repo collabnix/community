@@ -1,7 +1,7 @@
 ---
 title: "DevSecOps"
 linkTitle: "DevSecOps"
-weight: 200
+weight: 400
 description: >-
      A Curated List of DevSecOps Terminologies, Tools and Technologies
 ---
