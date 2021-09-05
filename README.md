@@ -1,4 +1,4 @@
-# Welcome to Collabnix Community Repository
+# Welcome DevOps Engineers !
 
 This repository is built by the community, for the community. It defines the journey for all new Devops folks who want to get started with DevOps tools and Technologies
 
