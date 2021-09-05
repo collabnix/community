@@ -1,9 +1,9 @@
 ---
-title: "Kubernetes"
-linkTitle: "Kubernetes"
+title: "Kubernetes Tutorials"
+linkTitle: "Kubernetes Tutorials"
 weight: 200
 description: >-
-     Page description for Kubernetes
+     List of Kubernetes Tutorials
 ---
 
 
