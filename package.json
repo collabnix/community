@@ -24,6 +24,6 @@
   },
   "dependencies": {
     "bootstrap": "^5.1.0",
-    "bootstrap-scss": "^5.0.2"
+    "bootstrap-scss": "^5.1.0"
   }
 }
