@@ -6,7 +6,6 @@ description: >-
      A Curated List of DevSecOps Terminologies, Tools and Technologies
 ---
 
-## DevSecOps 
 
 - Overview 
 - Whats In The Name DevOpsSec , SecDevOps and DevOps ?
