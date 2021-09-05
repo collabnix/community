@@ -1,11 +1,11 @@
 ---
-title: "Docker"
-linkTitle: "Docker
+title: "Kubernetes"
+linkTitle: "Kubernetes"
 weight: 100
-menu:
-  main:
-    weight: 100
+description: >-
+     Page description for Kubernetes
 ---
+
 
 
 
