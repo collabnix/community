@@ -1,9 +1,9 @@
 ---
-title: "Terraform"
-linkTitle: "Terraform"
+title: "Terraform Tutorials"
+linkTitle: "Terraform Tutorials"
 weight: 300
 description: >-
-     Page description for Terraform
+     List of Terraform Tutorials
 ---
 
 
