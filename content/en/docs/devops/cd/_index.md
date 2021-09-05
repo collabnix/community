@@ -1,7 +1,7 @@
 ---
 title: "Continous Delivery"
 linkTitle: "Continous Delivery""
-weight: 107
+weight: 84
 description: >-
      Page description for Continous Delivery
 ---
