@@ -1,7 +1,7 @@
 ---
 title: "Cloud"
 linkTitle: "Cloud"
-weight: 120
+weight: 600
 description: >-
      Page description for Cloud
 ---
