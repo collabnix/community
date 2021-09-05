@@ -8,15 +8,18 @@ description: >-
 
 ## What is DevOps?
 
-DevOps is a cultural shift and the adoption of a specific mindset -- one that emphasizes communication and collaboration among development and IT operations teams, as well as with other stakeholders. DevOps is not an individual, nor is it a specific tool or technology. DevOps typically incorporates common methodologies such as continuous integration, continuous delivery and automation.
+ 
+- DevOps is not an individual, nor is it a specific tool or technology. DevOps typically incorporates common methodologies such as continuous integration, continuous delivery and automation.
+- DevOps is a cultural shift and the adoption of a specific mindset -- one that emphasizes communication and collaboration among development and IT operations teams, as well as with other stakeholders.
 
 ## What problems does DevOps try to solve?
 
-DevOps tries to address many of the issues inherent in traditional application development and delivery methodologies, with the goal of improving operations throughout the application development lifecycle. The following list includes several of the issues that DevOps tries to address.
+- DevOps tries to address many of the issues inherent in traditional application development and delivery methodologies, with the goal of improving operations throughout the application development lifecycle. 
+- The following list includes several of the issues that DevOps tries to address.
 
-The application delivery process is slow, with fixes and updates taking too long.
-Siloes between development, operations and other stakeholders make it difficult to work toward common application delivery goals.
-Applications do not run correctly in all environments. They might work fine during development and testing but not when they're deployed in a production environment.
+   - The application delivery process is slow, with fixes and updates taking too long.
+   - Siloes between development, operations and other stakeholders make it difficult to work toward common application delivery goals.
+   - Applications do not run correctly in all environments. They might work fine during development and testing but not when they're deployed in a production environment.
 
 Problems with an application are often discovered late in the development lifecycle, making them more difficult, time-consuming and costly to resolve.
 The process of identifying and resolving issues can be complex and time-consuming, often leading to unexpected delays and cost overruns.
