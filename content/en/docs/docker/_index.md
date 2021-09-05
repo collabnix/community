@@ -1,9 +1,9 @@
 ---
-title: "Docker"
-linkTitle: "Docker"
+title: "Docker Tutorials"
+linkTitle: "Docker Tutorials"
 weight: 100
 description: >-
-     Page description for Docker
+     List of Docker Tutorials
 ---
 
 
