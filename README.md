@@ -32,6 +32,8 @@ Once you've made your working copy of the site repo, from the repo root folder, 
 hugo server
 ```
 
+Visit https://localhost:1313
+
 ## Running a container locally
 
 You can run docsy-example inside a [Docker](https://docs.docker.com/)
