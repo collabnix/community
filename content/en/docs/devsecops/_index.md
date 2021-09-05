@@ -1,9 +1,9 @@
 ---
-title: "DevSecOps"
-linkTitle: "DevSecOps"
+title: "DevSecOps Tutorials"
+linkTitle: "DevSecOps Tutorials"
 weight: 400
 description: >-
-     DevSecOps Tutorials
+     List of DevSecOps Tutorials
 ---
 
 
