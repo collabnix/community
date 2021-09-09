@@ -5,23 +5,8 @@ weight: 300
 description: >-
      List of Terraform Tutorials
 ---
-
-
-
-
-![My image](https://raw.githubusercontent.com/collabnix/terraform/master/images/wordle.png)
-
 Terraform Labs brings you tutorials that help you get hands-on experience using Terraform, Kubernetes & Cloud. Here you will find complete documentation of labs and tutorials around Terraform CLI, Configuration Language, sub-commands, providers, Registry and much more..
 
-#  Getting Started in 3 Simple Steps
-
-- Join 5000+ Collabnix Labs Contributors in 2 mins via [Slack](https://launchpass.com/collabnix)
-
-- Fork, Contribute & Share via [Terraform GITHUB Repository](https://github.com/collabnix/terraform)
-
--  [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/fold_left.svg?style=social&label=Follow%20%40collabnix)](https://twitter.com/collabnix)
-
-# Terraform Workshop/Labs
 
 - [Getting Started: Why, What & How about Terraform?](getting-started/README.md) 
 
@@ -38,14 +23,14 @@ Terraform Labs brings you tutorials that help you get hands-on experience using 
 
 ## Installing Terraform
 
-  - [MacOS](https://github.com/collabnix/terraform/blob/master/beginners/os/mac/README.md)
-  - [Linux](https://github.com/collabnix/terraform/tree/master/beginners/os/linux) 
-  - [Windows](https://github.com/collabnix/terraform/tree/master/beginners/os/windows)
+  - [MacOS](beginners/os/mac/README.md)
+  - [Linux](beginners/os/linux) 
+  - [Windows](beginners/os/windows)
   
 
 ## From Terraform INIT To APPLY
 
-  - [Terraform providers](https://github.com/collabnix/terraform/blob/master/beginners/providers/Terraform_Providers.md)
+  - [Terraform providers](beginners/providers/Terraform_Providers.md)
   - [Terraform resources](https://github.com/collabnix/terraform/blob/master/beginners/resources/Terraform_Resources.md)
   - [Variable Resources](https://github.com/collabnix/terraform/blob/master/beginners/resources/variables/README.md)
   - [Output Resources](https://github.com/collabnix/terraform/blob/master/beginners/resources/output/README.md)
@@ -132,6 +117,3 @@ Terraform Labs brings you tutorials that help you get hands-on experience using 
 - [Sample Questions](https://learn.hashicorp.com/terraform/certification/terraform-associate-sample-questions)<br>
 
 # Core Contributors
-
-
-
