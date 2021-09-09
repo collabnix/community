@@ -31,17 +31,17 @@ Terraform Labs brings you tutorials that help you get hands-on experience using 
 ## From Terraform INIT To APPLY
 
   - [Terraform providers](beginners/providers/Terraform_Providers.md)
-  - [Terraform resources](https://github.com/collabnix/terraform/blob/master/beginners/resources/Terraform_Resources.md)
-  - [Variable Resources](https://github.com/collabnix/terraform/blob/master/beginners/resources/variables/README.md)
-  - [Output Resources](https://github.com/collabnix/terraform/blob/master/beginners/resources/output/README.md)
-  - [Terraform CLI](https://github.com/collabnix/terraform/blob/master/beginners/CLI/README.md)
-  - [Init-plan-apply !](https://github.com/collabnix/terraform/blob/master/beginners/init-plan-apply/README.md)
+  - [Terraform resources](beginners/resources/Terraform_Resources.md)
+  - [Variable Resources](beginners/resources/variables/README.md)
+  - [Output Resources](beginners/resources/output/README.md)
+  - [Terraform CLI](beginners/CLI/README.md)
+  - [Init-plan-apply !](beginners/init-plan-apply/README.md)
 
 ## Setting up Cloud Account
 
 #### AWS
 
-  - [Deploy your AWS EKS cluster with Terraform](https://github.com/collabnix/terraform/tree/master/beginners/aws/eks)
+  - [Deploy your AWS EKS cluster with Terraform](beginners/aws/eks)
   - Setting up AWS account credentials 
   - Launch an EC2 instance
   - Create a S3 bucket for storage
@@ -56,18 +56,18 @@ Terraform Labs brings you tutorials that help you get hands-on experience using 
 
 #### Azure
  
-  - [Getting started with Terraform in Azure](https://github.com/collabnix/terraform/blob/master/beginners/azure/README.md)
-  - [Create a Virtual Network in Azure](https://github.com/collabnix/terraform/blob/master/beginners/azure/virtualnetwork)
-  - [Create a Linux Virtual Machine in Azure](https://github.com/collabnix/terraform/tree/master/beginners/azure/linuxVM)
-  - [Create a Windows-10 Virtual Machine in Azure](https://github.com/collabnix/terraform/tree/master/beginners/azure/windowsVM)
-  - [Create a Storage account and Host a static website in Azure](https://github.com/collabnix/terraform/tree/master/beginners/azure/storageAccount) 
-  - [Create Multiple Resources in Azure using for_each](https://github.com/collabnix/terraform/tree/master/beginners/azure/multiple_resources) 
-  - [Create AKS Cluster with Container Monitoring](https://github.com/collabnix/terraform/tree/master/beginners/azure/aks_cluster)
-  - [How to use Modules](https://github.com/collabnix/terraform/tree/master/beginners/azure/module_example)
+  - [Getting started with Terraform in Azure](beginners/azure/README.md)
+  - [Create a Virtual Network in Azure](beginners/azure/virtualnetwork)
+  - [Create a Linux Virtual Machine in Azure](beginners/azure/linuxVM)
+  - [Create a Windows-10 Virtual Machine in Azure](beginners/azure/windowsVM)
+  - [Create a Storage account and Host a static website in Azure](beginners/azure/storageAccount) 
+  - [Create Multiple Resources in Azure using for_each](beginners/azure/multiple_resources) 
+  - [Create AKS Cluster with Container Monitoring](beginners/azure/aks_cluster)
+  - [How to use Modules](/beginners/azure/module_example)
 
 #### GCP
 
-  - [Setting up Terraform for Google Cloud Platform](https://github.com/collabnix/terraform/blob/master/beginners/gcp/README.md)
+  - [Setting up Terraform for Google Cloud Platform](beginners/gcp/README.md)
   - Terraform vs Google Deployment Manager
   - Launch a Compute Engine Instance
   - Create a New VPC and Public Subnet
@@ -105,9 +105,9 @@ Terraform Labs brings you tutorials that help you get hands-on experience using 
 
 
 
-- [Intermediate Track](./intermediate/README.md) - In-Progress
+- [Intermediate Track](intermediate/README.md) - In-Progress
 
-- [Experts Track](./experts/README.md) - Not Started
+- [Experts Track](experts/README.md) - Not Started
 
 
 # Terraform Associate Certification
