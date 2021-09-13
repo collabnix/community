@@ -1,0 +1,74 @@
++++
+title = "Collabnix"
+linkTitle = "Collabnix"
+
++++
+
+{{< blocks/cover title="Welcome to Collabnix Community" image_anchor="top" height="full" color="orange" >}}
+<div class="mx-auto">
+	<a class="btn btn-lg btn-primary mr-3 mb-4" href="{{< relref "/docs" >}}">
+		Learn More <i class="fas fa-graduation-cap ml-2"></i>
+	</a>
+	<a class="btn btn-lg btn-secondary mr-3 mb-4" href="https://launchpass.com/collabnix">
+		Join Slack <i class="fab fa-slack ml-2 "></i>
+	</a>
+	<p class="lead mt-5"></p>
+	{{< blocks/link-down color="info" >}}
+</div>
+{{< /blocks/cover >}}
+
+
+{{% blocks/lead color="primary" %}}
+Collabnix is an open community of more than 5000+ DevOps enthusiasts. Find the community resources to help you get started and contribute to Collabnix Community.
+
+	
+{{% /blocks/lead %}}
+
+{{< blocks/section color="dark" >}}
+{{% blocks/feature icon="fa-hard-hat" title="Construct" url="https://github.com/collabnix/community/discussions" %}}
+Come and share your project ideas with us.
+	
+	
+{{% /blocks/feature %}}
+
+
+{{% blocks/feature icon="fab fa-slack-hash" title="Collaborate" url="https://launchpass.com/collabnix" %}}
+Collaborate with us to build a better software
+{{% /blocks/feature %}}
+
+
+{{% blocks/feature icon="fab fa-github" title="Contribute" url="https://github.com/collabnix/community/pulls" %}}
+Get started and contribute via Pull Requests.
+{{% /blocks/feature %}}
+
+
+{{< /blocks/section >}}
+
+
+{{< blocks/section >}}
+<div class="col">
+<h1 class="text-center">Community Projects</h1>
+</div>
+
+{{< /blocks/section >}}
+
+
+
+{{< blocks/section >}}
+{{% blocks/feature icon="fab fa-docker" title="DockerLabs" url="https://dockerlabs.collabnix.com" %}}
+An Ultimate Docker Hands-on Labs for You
+{{% /blocks/feature %}}
+
+
+{{% blocks/feature icon="fab fa-korvue" title="Kubetools" url="https://kubetools.collabnix.com" %}}
+A curated list of Kubernetes tools
+{{% /blocks/feature %}}
+	
+{{% blocks/feature icon="fab fa-kickstarter-k" title="Kubelabs" url="https://kubelabs.collabnix.com" %}}
+An Ultimate Kubernetes Hands-on Labs for You
+{{% /blocks/feature %}}
+
+
+{{< /blocks/section >}}
+
+

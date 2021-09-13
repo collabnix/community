@@ -1,10 +1,10 @@
 +++
-title = "Collabnix"
-linkTitle = "Collabnix"
-
+title = "Collabnix Community"
 +++
 
-{{< blocks/cover title="Welcome to Collabnix Community" image_anchor="top" height="full" color="orange" >}}
+<!-- Hero section -->
+
+{{< blocks/cover title="Welcome to Collabnix Community" image_anchor="top" height="full" color="dark" >}}
 <div class="mx-auto">
 	<a class="btn btn-lg btn-primary mr-3 mb-4" href="{{< relref "/docs" >}}">
 		Learn More <i class="fas fa-graduation-cap ml-2"></i>
@@ -15,60 +15,165 @@ linkTitle = "Collabnix"
 	<p class="lead mt-5"></p>
 	{{< blocks/link-down color="info" >}}
 </div>
-{{< /blocks/cover >}}
+{{< /blocks/cover  >}}
 
-
-{{% blocks/lead color="primary" %}}
-Collabnix is an open community of more than 5000+ DevOps enthusiasts. Find the community resources to help you get started and contribute to Collabnix Community.
-
+{{% blocks/lead color="white" %}}
 	
 {{% /blocks/lead %}}
 
-{{< blocks/section color="dark" >}}
-{{% blocks/feature icon="fa-hard-hat" title="Construct" url="https://github.com/collabnix/community/discussions" %}}
-Come and share your project ideas with us.
-	
-	
-{{% /blocks/feature %}}
-
-
-{{% blocks/feature icon="fab fa-slack-hash" title="Collaborate" url="https://launchpass.com/collabnix" %}}
-Collaborate with us to build a better software
-{{% /blocks/feature %}}
-
-
-{{% blocks/feature icon="fab fa-github" title="Contribute" url="https://github.com/collabnix/community/pulls" %}}
-Get started and contribute via Pull Requests.
-{{% /blocks/feature %}}
-
-
-{{< /blocks/section >}}
-
-
-{{< blocks/section >}}
-<div class="col">
-<h1 class="text-center">Community Projects</h1>
+<div id="overview">
+  <div class="contain">
+    <h1 class="section-head">  </h1>
+	  <p style="color:dark;"> <h1> <b1> </b1> </h1> </p>
+    <p>
+    Discover the DevOps Tools and Technologies</p>
+  </div>
 </div>
 
-{{< /blocks/section >}}
+<section id="pageContent">
+  <div class="container">
+    <div class="card-deck">
+      <div class="card border-primary-dark">
+        <img
+          src="/docs/images/logos/docker.png"
+		  class="card-img-top"
+		  draggable="false"
+          style="padding: 2rem;"
+          alt="docker"
+        />
+        <div class="card-body bg-primary-dark">
+          <h5 class="card-title text-white section-head">
+		<center>
+		<a target="_blank" rel="noopener" href="/docs/docker/">Docker </a>	  
+</center> </h5>
+          <p class="card-text text-white">
+           
+         </p>
+        </div>
+      </div>
+      <div class="card border-primary-dark">
+        <img
+          src="/docs/images/logos/kubernetes.png"
+		  class="card-img-top"
+		  draggable="false"
+          style="padding: 2rem;"
+          alt="Kubernetes"
+        />
+        <div class="card-body bg-primary-dark">
+          <h5 class="card-title text-white section-head">
+	<center>
+	<a target="_blank" rel="noopener" href="/docs/kubernetes/"> Kubernetes </a>	  
+          </center>
+          </h5>
+          <p class="card-text text-white">
+         
+         </p>
+        </div>
+      </div>
+      <div class="card border-primary-dark">
+        <img
+          src="/docs/images/logos/prometheus.png"
+		  class="card-img-top"
+		  draggable="false"
+          style="padding: 2rem;"
+          alt="Contribute"
+        />
+        <div class="card-body bg-primary-dark">
+          <h5 class="card-title text-white section-head"> 
+		
+       <center>
+	<a target="_blank" rel="noopener" href="/docs/prometheus/">Prometheus</a>	  
+          </center>
+	</h5>
+          <p class="card-text text-white">
+     
+         </p>
+        </div>
+      </div>
+    </div>
+    <br />
+    <div class="card-deck">
+      <div class="card border-primary-dark">
+        <img
+          src="/docs/images/logos/grafana.png"
+		  class="card-img-top"
+		  draggable="false"
+          style="padding: 2rem;"
+          alt="Grafana"
+        />
+        <div class="card-body bg-primary-dark">
+		<h5 class="card-title text-white section-head"> 
+	<center>
+	<a target="_blank" rel="noopener" href="/docs/grafana/">Grafana</a>	  
+          </center>
+		
+		</h5>
+          <p class="card-text text-white">
+	    
 
+          </p>
+        </div>
+      </div>
+      <div class="card border-primary-dark">
+        <img
+          src="/docs/images/logos/terraform.png"
+		  class="card-img-top"
+		  draggable="false"
+          style="padding: 2rem;"
+          alt="Terraform"
+        />
+        <div class="card-body bg-primary-dark">
+          <h5 class="card-title text-white section-head">
+	<center>
+	<a target="_blank" rel="noopener" href="/docs/terraform/">Terraform</a>	  
+          </center>	  
+		 </h5>
+          <p class="card-text text-white">
+            
+          </p>
+        </div>
+      </div>
+      <div class="card border-primary-dark">
+        <img
+          src="/docs/images/logos/ansible.png"
+		  class="card-img-top"
+		  draggable="false"
+          style="padding: 2rem;"
+          alt="People Icon"
+        />
+        <div class=" card-body bg-primary-dark">
+          <h5 class="card-title text-white section-head">
+		  <center>
+	<a target="_blank" rel="noopener" href="/docs/ansible">Ansible</a>	  
+          </center>
+		  
+		  
+		  </h5>
+          <p class="card-text text-white">
+           
+          </p>
+        </div>
+      </div>
+    </div>
+    <br />
+    <!-- For future editors: If you are adding cards not in multiples of 3, wrap them in a 'card-columns' div 
+						instead of card-deck. It will look more pleasing to the eye. -->
+  </div>
+</section>
 
+<div id="community">
+  <div class="contain">
+    <h4 class="section-head"></h4>
+    <p>
+      Meet, share and collaborate with other Collabnix community users and contributors on our Community Slack
+    </p>
 
-{{< blocks/section >}}
-{{% blocks/feature icon="fab fa-docker" title="DockerLabs" url="https://dockerlabs.collabnix.com" %}}
-An Ultimate Docker Hands-on Labs for You
-{{% /blocks/feature %}}
-
-
-{{% blocks/feature icon="fab fa-korvue" title="Kubetools" url="https://kubetools.collabnix.com" %}}
-A curated list of Kubernetes tools
-{{% /blocks/feature %}}
-	
-{{% blocks/feature icon="fab fa-kickstarter-k" title="Kubelabs" url="https://kubelabs.collabnix.com" %}}
-An Ultimate Kubernetes Hands-on Labs for You
-{{% /blocks/feature %}}
-
-
-{{< /blocks/section >}}
-
+    <a
+      class="btn btn-lg btn-primary mr-3 mb-4"
+      href="http://launchpass.com/collabnix"
+    >
+      Join the Collabnix community Slack <i class="fas fa-slack-hash ml-2"></i>
+    </a>
+  </div>
+</div>
 
