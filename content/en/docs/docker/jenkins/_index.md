@@ -36,7 +36,7 @@ Go to your browser and type –  https://labs.play-with-docker.com/
 
  
 
-Open up a “New Instance” on the left hand side of the screen.
+### Open up a “New Instance” on the left hand side of the screen.
 
 ![image](https://user-images.githubusercontent.com/313480/141933397-34930488-3a5c-46fc-82f6-85e261171317.png)
 
@@ -46,7 +46,7 @@ Open up a “New Instance” on the left hand side of the screen.
 
  
 
-Cloning the Repository
+## Cloning the Repository
 
 Let us start with a simple HTML webpage application. I have a sample GITHUB repository already created for you which contains Dockerfile and Jenkinsfile under the root of the repository as shown below:
 
@@ -61,7 +61,7 @@ $ git clone https://github.com/ajeetraina/webpage
 
  
 
-What is Jenkinsfile & Jenkins Pipeline?
+## What is Jenkinsfile & Jenkins Pipeline?
 
 A Jenkinsfile is a text file that contains the definition of a Jenkins Pipeline and is checked into source control.
 
@@ -184,7 +184,7 @@ Once you click on “Build Now” you will see that it initiates the build pipel
 
  
 
-Jenkins Pipeline Stages View:
+## Jenkins Pipeline Stages View:
 
 
 ![image](https://user-images.githubusercontent.com/313480/141933776-2bb08e2b-d1de-4679-9f55-f6c26c2b022d.png)
@@ -198,7 +198,7 @@ Click on “Console Output” to show detailed build process as shown below:
 
  
 
-A Quick View of Stage View:
+## A Quick View of Stage View:
 
  
 ![image](https://user-images.githubusercontent.com/313480/141933807-d1c53cd5-bec3-41e5-8b66-d916134fd00c.png)
