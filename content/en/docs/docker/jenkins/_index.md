@@ -1,6 +1,6 @@
 ---
 title: "Using Jenkins"
-linkTitle: "Using Jekins"
+linkTitle: "Using Jenkins"
 weight: 101
 description: >-
      Continuous Integration Pipeline using Docker, Jenkins & GitHub 
