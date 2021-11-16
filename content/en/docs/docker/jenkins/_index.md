@@ -57,8 +57,9 @@ Let us start with a simple HTML webpage application. I have a sample GITHUB repo
 
  
 
+```
 $ git clone https://github.com/ajeetraina/webpage
-
+```
  
 
 ## What is Jenkinsfile & Jenkins Pipeline?
