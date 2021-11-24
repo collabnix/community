@@ -1,3 +1,11 @@
+---
+title: "Using Jenkins 2"
+linkTitle: "Using Jenkins 2"
+weight: 103
+description: >-
+     Continuous Integration Pipeline using Docker, Jenkins 2 & GitHub 
+---
+
 ### Building Your First Docker Image using Jenkins 2
 
 ![](https://collabnix.com/wp-content/uploads/2018/03/ci-cd.png)
