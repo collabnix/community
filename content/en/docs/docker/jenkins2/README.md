@@ -1,4 +1,4 @@
-### Building your first Docker image with Jenkins 2
+### Building Your First Docker Image using Jenkins 2
 
 ![](https://collabnix.com/wp-content/uploads/2018/03/ci-cd.png)
 
