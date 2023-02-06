@@ -1,10 +1,9 @@
-
 ---
 title: "Kubernetes"
 linkTitle: "Kubernetes"
-weight: 200
-date: 2020-01-05
-description: >
- Kubernetes related DevOps projects and Tools
+weight: 80
+description: >-
+     Kubernetes for Beginners
 ---
 
+![My Image](under-construction.png)
